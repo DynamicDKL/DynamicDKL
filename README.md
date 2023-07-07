@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DynamicDKL
-- 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m currently learning Python!
-- 💞️ I’m looking to collaborate on projects related to python and ML
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently DevOps Tools!
+- 💞️ I’m looking to collaborate on projects related to DevOps!
 - 📫 How to reach me at dynamicdkl@gmail.com
 
 <!---
