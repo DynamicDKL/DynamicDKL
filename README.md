@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DynamicDKL
-- 👀 I’m interested in DevOps.
-- 🌱 I’m currently DevOps Tools!
-- 💞️ I’m looking to collaborate on projects related to DevOps!
+-  some one who wants to explore and play with tools and tech!
 - 📫 How to reach me at dynamicdkl@gmail.com
 
 <!---
